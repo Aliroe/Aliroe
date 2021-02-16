@@ -31,6 +31,6 @@
 
 #### 📫 Contact
 
-[![](https://img.shields.io/badge/-blog.ronnie.top-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.ronnie.com/)
+[![](https://img.shields.io/badge/-blog.ronnie.top-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.ronnie.top/)
 [![](https://img.shields.io/badge/-t.me/usernameroot-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/usernameroot)
 [![](https://img.shields.io/badge/-r@wsl.pub-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:r@wsl.pub)
